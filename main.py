@@ -1,2 +1,5 @@
-import flask_migrate
-import flask
+def greet(name):
+	name = 'andrew'
+	print(name)
+
+greet('someone')
