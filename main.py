@@ -1,5 +1,1 @@
-def greet(name):
-	name = 'son'
-	print(name)
-
-greet('someone')
+#this is the beginning of my typescript joureney
