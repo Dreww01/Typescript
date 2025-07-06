@@ -1,5 +1,5 @@
 def greet(name):
-	name = 'daddy'
+	name = 'mother'
 	print(name)
 
 greet('someone')
